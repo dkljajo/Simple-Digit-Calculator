@@ -2,8 +2,10 @@
  
 ## Description
 
-Goal of the the project is segmenting and recognizing handwritten digits and math. operator in the image. And finally creating a pipeline for calculating the value of that expression. It includes only basic operations : Add: +, Subtract: - , Multiply: * and Divide: /.
-Covolutional Neural Network model contains 160 000 trainable params, making it easy to deploy on less powerfull devices. 
+Goal of this the project is making the simple and lightweight application for deploying on the edge devices. 
+Main task is segmenting and recognizing handwritten digits and math. operator in the image.
+And finally creating a pipeline for calculating the value of that expression. It includes only basic operations : Add: +, Subtract: - , Multiply: * and Divide: /.
+Covolutional Neural Network model contains 160 000 trainable params, making it easy to deploy on less powerfull edge devices. 
 The dataset can be taken from Kaggle.
 Performance of the model uses this metrics:
 -	Loss and Accuracy
