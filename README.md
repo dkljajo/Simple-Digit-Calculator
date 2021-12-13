@@ -24,7 +24,7 @@ Project can be increased further by including more mathematical operators and sy
 Because the data from MNIST dataset is quite different then data taken from pictures, model can be significantly increased with more real world pictures and techniques like: Transfer Learning, Data Augmentation (Mirroring, Random Cropping, Rotation, Color Shifting, etc.).
 
 ## Instruction for using the application:
--	Take the picture with your mathematical expression on the blank paper
--	Put it in the folder /data
--	Run the last cell in Jupyter Notebook, with the correct name of the picture
--	See the result
+-	Take the picture with your mathematical expression on the blank paper, written very, very pretty.
+-	Put it in the folder /data.
+-	Run the last cell in Jupyter Notebook where the application calculate expression from picture, and put the correct path with the correct name of the picture.
+-	See the result.
