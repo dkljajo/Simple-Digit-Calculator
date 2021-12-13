@@ -21,7 +21,7 @@ Final pipeline includes reading the image, grayscale conversion, edge detection,
 Project can be increased further by including more mathematical operators and symbols and making it more intelligent.
 
 ## Problems: 
-Because the data from MNIST dataset is quite different then data taken from pictures, model can be significantly increased with more real world pictures and techniques like: Transfer Learning, Data Augmentation (Mirroring, Random Cropping, Rotation, Color Shifting, etc.).
+Because the data from MNIST dataset is quite different from the data taken from pictures, model can be significantly increased with more real world pictures and techniques like: Transfer Learning, Data Augmentation (Mirroring, Random Cropping, Rotation, Color Shifting, etc.).
 
 ## Instruction for using the application:
 -	Take the picture with your mathematical expression on the blank paper, written very, very pretty.
